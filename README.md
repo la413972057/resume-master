@@ -49,7 +49,7 @@ Safari执行：文件——导出为PDF 即可
 
 3.创建`gh-pages`分支
 
-4.终端执行`gulp deploy` 稍等片刻即可部署完毕
+4.终端执行`gulp deploy` 稍等片刻即可部署完毕(**git安装过程中我好像有一个选项没勾选所以不能直接deploy，只能在github forwindows上自带的gitshell 上deploy**)
 
 5.到你的`github pages`站点访问（url后面加上`/resume-master`即可访问）
 

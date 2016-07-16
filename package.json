@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/hawx1993/resume-master.git"
+    "url": "https://github.com/la413972057/resume-master.git"
   },
   "keywords": [
     "resume"
