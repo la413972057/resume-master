@@ -197,15 +197,8 @@ code {
 .timelineWrapper .project {
   margin-top: 70px;
 }
-.timelineWrapper .intern {
-  margin-top: 165px;
-}
 .timelineWrapper .skill {
-  margin-top: 134px;
   float: left;
-}
-.timelineWrapper .self {
-  margin-top: 249px;
 }
 .education_column {
   float: left;
@@ -316,7 +309,6 @@ code {
   color: #666;
   line-height: 1.5;
   font-weight: normal;
-  display: inline-block;
 }
 .intern_column .intern_desc {
   background-color: #f3f3f3;
